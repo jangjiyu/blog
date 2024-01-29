@@ -1,0 +1,6 @@
+[submodule "blog-frontend"]
+	path = blog-frontend
+	url = https://github.com/jangjiyu/blog-frontend.git
+[submodule "blog-backend"]
+	path = blog-backend
+	url = https://github.com/jangjiyu/blog-backend.git
